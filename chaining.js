@@ -29,3 +29,4 @@ const company = {
  console.log(company.web.work);
 //  jodi kisu na thake array te tahole ?. dite hobe and output undefined dekhabe kintu error dibena
 console.log(company?.ceo?.name?.framework);
+
